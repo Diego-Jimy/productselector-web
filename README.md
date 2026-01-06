@@ -27,5 +27,10 @@ El proyecto incluye un archivo SQL de ejemplo para la creación de la base de da
 ## Nota
 Este proyecto es una adaptación académica y no representa a una empresa real.
 
+## Instalación
+El código fuente del proyecto se encuentra comprimido en el archivo `productselector-web.zip`.
+Para utilizarlo, descargar el archivo, descomprimirlo y ejecutar en un entorno local con PHP y MySQL.
+
+
 ## Autor
-Diego Jimy
+Diego Jimy GO
